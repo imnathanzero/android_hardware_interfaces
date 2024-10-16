@@ -8,7 +8,7 @@ package {
 }
 #
 # cc_library_shared {
-#    name: "camera.device@3.3-impl",
+#    name: "",
 #    defaults: ["hidl_defaults"],
 #    proprietary: true,
 #    srcs: [

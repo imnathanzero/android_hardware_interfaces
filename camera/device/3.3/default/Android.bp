@@ -6,7 +6,7 @@ package {
     //   SPDX-license-identifier-Apache-2.0
     default_applicable_licenses: ["hardware_interfaces_license"],
 }
-
+#
 # cc_library_shared {
 #    name: "camera.device@3.3-impl",
 #    defaults: ["hidl_defaults"],
